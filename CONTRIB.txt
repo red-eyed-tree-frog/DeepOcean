@@ -1,0 +1,17 @@
+With the group being small this was a very collaborative approach
+and both contributors had to multitask.
+Both team members had to work on all of the game details
+and as the process evolved the game was refined with contributions from both individuals. 
+
+Inspiration: Leo came up with the Deep Ocean idea -
+underwater adventure of a diver.
+While doing a vector research Guoda found
+the main menu image which was a main inspiration for design.
+
+
+While implementing the main game physics,
+Guoda suggested using flappy bird movements:
+constantly use jump action so the diver would keep floating.
+
+Leo improved the idea making it float up and down.
+Leo even remixed the music himself (Yellow Submarine, Under the Sea).

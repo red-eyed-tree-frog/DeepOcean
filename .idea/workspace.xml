@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64430ece-b6cc-489d-ad98-0a77c3dcf14d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Deep Ocean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Deep Ocean.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ocean 08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ocean 08.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Character Class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Diver move.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Diver_Dude.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Peter fork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/adding sprites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bool class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/demo_stage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/diver-dblue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/diver-dblue2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/diver-dblue3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/firstspritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/gametest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/imgopen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/other scroller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/player move.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/playerscroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/ripple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/scrolling experiment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Title and Text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Under the Sea.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yellow Sub.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/arm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back800.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bullets.py" beforeDir="false" afterPath="$PROJECT_DIR$/bullets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/creatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/BACK.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/BACK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/PLATFORM1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/PLATFORM2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/Untitled-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/Untitled-2.psb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/Untitled-2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/fishes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/see weeds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/see weeds2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/see weeds3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/see weeds4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/seeweedsprites3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/all/whales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/bubbles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/diver1arm.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/diver1arm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/diver1leftarm.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/diver1leftarm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/exit.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/exit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/instructions.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/instructions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/ocean floor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/shark3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/shark4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/shellSS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/start.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/subicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/game_vectors/subicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_vectors/sunken-ship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/highscores.py" beforeDir="false" afterPath="$PROJECT_DIR$/highscores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels.py" beforeDir="false" afterPath="$PROJECT_DIR$/levels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform_scroller.py" beforeDir="false" afterPath="$PROJECT_DIR$/platform_scroller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/555.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/FreeVector-Mermaid-Illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Ocean 08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Untitled-2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Untitled-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Untitled-95.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Vector_Ocean_Animals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Vector_Whale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/Water Bubbles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/asaa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/asda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/asdad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/back2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/compass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/diver.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/main background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/ocean floor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/sdfsf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/row.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/score_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunken-ship.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunken-ship.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/treasury.py" beforeDir="false" afterPath="$PROJECT_DIR$/treasury.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ys.mp3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>diver</find>
+      <find>shift</find>
+      <find>p1</find>
+      <find>color</find>
+      <find>sprite</find>
+      <find>clam</find>
+      <find>ox</find>
+      <find>over</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aGOvMvQZlmBCWnKVGhkAsAHKo3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Deep Ocean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.platform_scroller">
+    <configuration name="Title and Text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep Ocean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Title and Text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Title" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep Ocean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Title.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep Ocean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu_screen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep Ocean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menu_screen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="platform_scroller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep Ocean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/platform_scroller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.platform_scroller" />
+      <item itemvalue="Python.menu_screen" />
+      <item itemvalue="Python.Title" />
+      <item itemvalue="Python.Title and Text" />
+      <item itemvalue="Python.game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.platform_scroller" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.Title and Text" />
+        <item itemvalue="Python.menu_screen" />
+        <item itemvalue="Python.Title" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64430ece-b6cc-489d-ad98-0a77c3dcf14d" name="Default" comment="" />
+      <created>1512489450512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512489450512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="176" key="GridCell.Tab.0.bottom" timestamp="1586360020031">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586360020031" />
+    <state width="1899" height="176" key="GridCell.Tab.0.center" timestamp="1586360020031">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586360020031" />
+    <state width="1899" height="176" key="GridCell.Tab.0.left" timestamp="1586360020031">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586360020031" />
+    <state width="1899" height="176" key="GridCell.Tab.0.right" timestamp="1586360020031">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586360020031" />
+    <state x="-1459" y="170" key="SettingsEditor" timestamp="1586358914199">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="170" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586358914199" />
+  </component>
+</project>

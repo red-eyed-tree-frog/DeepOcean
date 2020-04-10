@@ -1,0 +1,11 @@
+The main goal of the game is to collect pearls from shells
+by swimming into them while at the same time increasing the
+diver’s oxygen level by collecting air bubbles.
+But, if the diver hits a fish then the oxygen goes down more quickly,
+if he should be unlucky enough to swim into a shark,
+it will go down drastically. To avoid fishes,
+you can shoot them by aiming with the mouse and
+clicking the left mouse button to shoot.
+
+The keyboard arrows allow the player to jump or
+dive and right arrow increases the divers swimming speed. 
